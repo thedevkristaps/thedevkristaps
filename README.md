@@ -1,3 +1,4 @@
+# Stats
 <p align="left">
 <img src="https://streak-stats.demolab.com?user=thedevkristaps&theme=highcontrast&hide_border=true&border_radius=5&card_width=800"><br>
 <img src="https://github-readme-stats.vercel.app/api?username=thedevkristaps&show_icons=true&theme=vision-friendly-dark"><br>
